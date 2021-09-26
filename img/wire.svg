@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="50px" height="50px" x="0" y="0" 
+viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
 <g xmlns="http://www.w3.org/2000/svg">
 	<g>
 		<path d="M278.242,251.796c-1.395-2.062-3.721-3.296-6.21-3.296h-20.987l11.918-29.795c1.539-3.846-0.332-8.211-4.178-9.749    c-3.847-1.542-8.211,0.332-9.749,4.178l-16.032,40.081c-0.924,2.311-0.643,4.93,0.753,6.99c1.395,2.061,3.722,3.295,6.21,3.295    h20.987l-11.918,29.795c-1.539,3.846,0.332,8.211,4.178,9.749c0.914,0.366,1.856,0.539,2.783,0.539    c2.977,0,5.793-1.784,6.966-4.716l16.032-40.081C279.919,256.475,279.638,253.856,278.242,251.796z" fill="#ffffff" data-original="#000000" style="" class=""/>
